@@ -1,8 +1,6 @@
 # Political-Self-Awareness-in-Large-Language-Models
 
 
-# Political Self-Awareness in Large Language Models
-
 ## Overview
 
 This project evaluates the political self-awareness of Large Language Models (LLMs) by analyzing their responses to political fact-check claims. The goal is to understand how different LLMs interpret political statements and whether their responses show awareness, neutrality, or bias.
